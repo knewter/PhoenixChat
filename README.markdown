@@ -1,0 +1,3 @@
+# Phoenix Chat for Android
+
+So this successfully connects to the phoenix chat example...just fix the IP and push to your device...
